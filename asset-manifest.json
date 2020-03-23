@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/oasisformtest2/static/css/main.a04bb18e.chunk.css",
+    "main.js": "/oasisformtest2/static/js/main.51c4db06.chunk.js",
+    "main.js.map": "/oasisformtest2/static/js/main.51c4db06.chunk.js.map",
+    "runtime-main.js": "/oasisformtest2/static/js/runtime-main.f91754dc.js",
+    "runtime-main.js.map": "/oasisformtest2/static/js/runtime-main.f91754dc.js.map",
+    "static/css/2.89f067aa.chunk.css": "/oasisformtest2/static/css/2.89f067aa.chunk.css",
+    "static/js/2.981b9795.chunk.js": "/oasisformtest2/static/js/2.981b9795.chunk.js",
+    "static/js/2.981b9795.chunk.js.map": "/oasisformtest2/static/js/2.981b9795.chunk.js.map",
+    "index.html": "/oasisformtest2/index.html",
+    "precache-manifest.73154ac52c15d1f99455da89f5a258b9.js": "/oasisformtest2/precache-manifest.73154ac52c15d1f99455da89f5a258b9.js",
+    "service-worker.js": "/oasisformtest2/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/oasisformtest2/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.a04bb18e.chunk.css.map": "/oasisformtest2/static/css/main.a04bb18e.chunk.css.map",
+    "static/js/2.981b9795.chunk.js.LICENSE.txt": "/oasisformtest2/static/js/2.981b9795.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f91754dc.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.981b9795.chunk.js",
+    "static/css/main.a04bb18e.chunk.css",
+    "static/js/main.51c4db06.chunk.js"
+  ]
+}
