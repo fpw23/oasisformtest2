@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "96e493147fcaaa287d1b4feb56e18fe2",
+    "revision": "0e0340e23d5bf275fc8a6bb64e70068c",
     "url": "/oasisformtest2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oasisformtest2/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "85cdeb467cbe713d94f9",
+    "revision": "bc8cba3683d58a4cafda",
     "url": "/oasisformtest2/static/css/main.a04bb18e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oasisformtest2/static/js/2.981b9795.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "85cdeb467cbe713d94f9",
-    "url": "/oasisformtest2/static/js/main.51c4db06.chunk.js"
+    "revision": "bc8cba3683d58a4cafda",
+    "url": "/oasisformtest2/static/js/main.c5d16dca.chunk.js"
   },
   {
     "revision": "693212afb66ace532f46",
